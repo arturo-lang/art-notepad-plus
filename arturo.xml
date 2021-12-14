@@ -1,7 +1,7 @@
 <NotepadPlus>
     <UserLang name="Arturo" ext="art">
         <Settings>
-            <Global caseIgnored="yes" />
+            <Global caseIgnored="no" />
             <TreatAsSymbol comment="no" commentLine="yes" />
             <Prefix words1="no" words2="no" words3="no" words4="no" />
         </Settings>
