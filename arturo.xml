@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Rebol" ext="r">
+    <UserLang name="Arturo" ext="art">
         <Settings>
             <Global caseIgnored="yes" />
             <TreatAsSymbol comment="no" commentLine="yes" />
